@@ -12,7 +12,7 @@ I build interactive experiences across games and the web, and I enjoy sharing bo
 
 ### Featured projects
 
-- **My Portfolio Website**  
+- **[My Portfolio Website](https://github.com/LiberteI/My_Portfolio)**  
   A personal website that highlights my background, projects, and piano journey.
-- **Knight of Cinders**  
+- **[Knight of Cinders](https://github.com/LiberteI/KnightOfCinders_firstProject)**  
   My first large-scale solo game development project.
